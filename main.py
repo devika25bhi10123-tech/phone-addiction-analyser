@@ -1,4 +1,5 @@
-# ============================================================
+# Improved version with better UI and messages
+# # ============================================================
 #         📱 Phone Addiction Analyzer
 #         A CLI tool to track and analyze your screen time
 # ============================================================
