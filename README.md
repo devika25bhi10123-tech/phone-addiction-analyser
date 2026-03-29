@@ -25,9 +25,15 @@ python main.py
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Screen time tracking
+- Addiction level classification (Healthy / Moderate / Addicted)
+- Data storage using file handling
+- Usage report with:
+  -Average screen time
+  -Highest and lowest usage
+  -Total days tracked
+- Smart suggestions based on usage
+- User-friendly interface with clean output and messages
 
 ## License
 
