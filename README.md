@@ -43,4 +43,4 @@ This project is licensed under the python main.py License - see the LICENSE file
 
 V.B Devika
 
-Project Link: [https://github.com/username/phone-addiction-analyser](https://github.com/username/phone-addiction-analyser)
+Project Link: https://github.com/devika25bhi10123-tech/phone-addiction-analyser
